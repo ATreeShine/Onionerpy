@@ -1,4 +1,5 @@
-# HostOnion - Tor Hidden Service Setup# HostOnion - Tor Hidden Service Setup
+# HostOnion - Tor Hidden Service 
+
 
 HostOnion is a Python script that automates the setup of a Tor hidden service and starts a local PHP server to serve content over the Tor network.
 
