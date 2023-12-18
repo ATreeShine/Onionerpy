@@ -32,5 +32,5 @@ You can access the service by navigating to this address in the Tor Browser.
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Please replace "script_name.py" with the actual name of your script file. Also, note that this README assumes that the user has Python and Tor installed and knows how to use them. If this is not the case, you may want to add more detailed instructions or links to relevant resources[1][2][3][4]
+Please replace "script_name.py" with the actual name of your script file. Also, note that this README assumes that the user has Python and Tor installed and knows how to use them. If this is not the case, you may want to add more detailed instructions or links to relevant resources.
 Please replace "main.py" with the actual name of your script file. Also, note that this README assumes that the user has Python and Tor installed and knows how to use them. If this is not the case, you may want to add more detailed instructions or links to relevant resources
